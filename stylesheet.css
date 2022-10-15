@@ -1,6 +1,7 @@
  body{
 
-    background-image:url(./background.jpg);
+    /* background-image:url(./background.jpg); */
+    background-color:cadetblue;
 
  }
  #mb{
@@ -101,11 +102,12 @@
             #t1{
                 margin-top:-6%;
                 padding:20px;
-                position:relative;
+                position:absolute;
                 background-color: black;
                 border-radius:20px;
                 opacity:0.7;
                 height:480px;
+                
             }
            
             #t2{
@@ -200,4 +202,4 @@
                 color:white;
                 font-size:30px;
             }
-           
+            
