@@ -4,6 +4,15 @@
     background-color: cadetblue;
 
  }
+
+ #container{
+    display:flex;
+    justify-content:space-between;
+    margin-left:20px;
+    margin-right:20px;
+
+ }
+
  #mb{
         padding:30px;
         height:400px;
